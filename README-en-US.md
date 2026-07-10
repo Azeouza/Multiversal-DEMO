@@ -137,4 +137,4 @@ Story author, artist, and design ideas
 
 ## 🌎 Versão em Português
 
-https://github.com/Azeouza/Multiversal/README.md
+https://github.com/Azeouza/Multiversal-DEMO/blob/main/README.md
