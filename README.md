@@ -68,7 +68,7 @@ git clone https://github.com/Azeouza/Multiversal.git
 Entre na pasta do projeto:
 
 ```
-cd Multiversal
+cd Multiversal-DEMO
 ```
 
 E execute conforme a plataforma:
@@ -110,7 +110,7 @@ lime test neko
 * Os executáveis ficam em:
 
 ```
-Multiversal/export/<plataforma>/bin
+Multiversal-DEMO/export/<plataforma>/bin
 ```
 
 * Para executar automaticamente após compilar:
