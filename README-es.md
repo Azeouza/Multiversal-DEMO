@@ -135,10 +135,10 @@ Autor de la historia, artista y creador de ideas de diseño
 
 ---
 
-## 🌎 Versión en inglés
+## 🌎 English version
 
 https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en.md
 
-## 🌎 Versión en portugués
+## 🌎 Versão em português
 
 https://github.com/Azeouza/Multiversal-DEMO/blob/main/README.md
