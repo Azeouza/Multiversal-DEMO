@@ -141,4 +141,4 @@ https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en.md
 
 ## 🌎 Version en español
 
-https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en.md
+https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-es.md
