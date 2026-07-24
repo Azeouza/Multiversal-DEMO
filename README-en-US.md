@@ -58,7 +58,7 @@ https://git-scm.com/
 Open a terminal in your desired folder (e.g., Documents) and run:
 
 ```bash
-git clone https://github.com/Azeouza/Multiversal.git
+git clone https://github.com/Azeouza/Multiversal-DEMO.git
 ```
 
 ---
@@ -68,7 +68,7 @@ git clone https://github.com/Azeouza/Multiversal.git
 Go to the project folder:
 
 ```bash
-cd Multiversal
+cd Multiversal-DEMO
 ```
 
 Then run the command for your platform:
@@ -110,7 +110,7 @@ lime test neko
 * The builds/executables are located in:
 
 ```bash
-Multiversal/export/<platform>/bin
+Multiversal-DEMO/export/<platform>/bin
 ```
 
 * To automatically run after building:
