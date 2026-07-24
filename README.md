@@ -137,4 +137,8 @@ Autor da história, artista e ideias de design
 
 ## 🌎 English version
 
-https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en-US.md
+https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en.md
+
+## 🌎 Version en español
+
+https://github.com/Azeouza/Multiversal-DEMO/blob/main/README-en.md
