@@ -58,7 +58,7 @@ https://git-scm.com/
 Abra o terminal na pasta desejada (ex: Documentos) e execute:
 
 ```
-git clone https://github.com/Azeouza/Multiversal.git
+git clone https://github.com/Azeouza/Multiversal-DEMO.git
 ```
 
 ---
